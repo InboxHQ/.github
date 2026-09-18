@@ -1,4 +1,4 @@
-## [Inboxapp](https://inboxapp.com) Every conversation, in one place
+## Inboxapp - Every conversation, in one place
 
 A CRM for you and your team to stay on top of every message, deal, and follow-up.
 
