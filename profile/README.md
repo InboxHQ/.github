@@ -2,12 +2,10 @@
 
 <br>
 
-<a href="https://inboxapp.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://inboxapp.com/assets/wordmark.png">
-    <img src="https://inboxapp.com/assets/wordmark-light.png" alt="Inboxapp" width="260">
-  </picture>
-</a>
+<p>
+  <a href="https://inboxapp.com#gh-light-mode-only"><img src="https://inboxapp.com/assets/wordmark-light.png" alt="Inboxapp" width="260"></a>
+  <a href="https://inboxapp.com#gh-dark-mode-only"><img src="https://inboxapp.com/assets/wordmark.png" alt="Inboxapp" width="260"></a>
+</p>
 
 <br>
 
