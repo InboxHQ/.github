@@ -1,10 +1,14 @@
 <div align="center">
 
+<br>
+
 <a href="https://inboxapp.com">
-  <img src="https://inboxapp.com/og-image.jpg" alt="Inboxapp" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://inboxapp.com/assets/wordmark.png">
+    <img src="https://inboxapp.com/assets/wordmark-light.png" alt="Inboxapp" width="260">
+  </picture>
 </a>
 
-<br>
 <br>
 
 **Every conversation, in one place.**
