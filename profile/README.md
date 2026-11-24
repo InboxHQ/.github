@@ -27,7 +27,7 @@ brings them into one fast inbox with a CRM built in. Every person is one contact
 tags, notes and reminders, so you always know where things stand and who to get back to. Teammates
 work the same conversations from their own login, and nobody shares a password.
 
-It works with **X**, **LinkedIn** and **WhatsApp** today, with
+It works with **X**, **LinkedIn**, **WhatsApp** and **Telegram** today, with
 [more platforms on the way](https://docs.inboxapp.com/help/platforms). Your agents can work in it
 too: connect **Claude**, **ChatGPT**, **Codex** or **Cursor** to find who needs a reply, draft
 messages and update contacts.
